@@ -17,7 +17,7 @@ This template will help start right away on designing a simple website for your 
 
 6) Start Tomcat
 
-Enter this on your browser: http://localhost:8080/agency.bootstrap
+<b>Enter this on your browser: http://localhost:8080/agency.bootstrap</b>
 
 See the beautiful bootstrap agency theme template on your browser. See how easy it is!
 
