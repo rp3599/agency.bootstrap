@@ -3,6 +3,7 @@ agency.bootstrap
 
 The Spring MVC + Tomcat 8 + Java 8 + Agency Bootstrap Template. Fork It and Deploy It on Tomcat. Enjoy Coding!
 
+
 This template will help start right away on designing a simple website for your company. Please follow these steps.
 
 1) Download Tomcat 8 from Apache Website
@@ -18,6 +19,8 @@ This template will help start right away on designing a simple website for your 
 6) Start Tomcat
 
 7) Enter this on your browser: http://localhost:8080/agency.bootstrap
+
+
 
 See the beautiful bootstrap agency theme template on your browser. See how easy it is!
 
