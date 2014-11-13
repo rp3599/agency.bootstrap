@@ -324,6 +324,10 @@ footer a:hover {
   color: #444;
 }
 
+footer a i {
+	font-size: 26px;
+}
+
 /* MISC */
 .clearfix:after {
   clear: both;
