@@ -19,8 +19,6 @@ This template is clean, stylish, one page Bootstrap portfolio theme perfect for 
 
 <b>Enter this on your browser: http://localhost:8080/agency.bootstrap</b>
 
-See the beautiful bootstrap agency theme template on your browser. Look how easy it is!
-
 The application works with im-memory h2 database but it is easy to replace with your own database server.
 
 Bootstrap Theme From:  http://startbootstrap.com/template-overviews/agency/
